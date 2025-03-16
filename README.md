@@ -10,6 +10,7 @@ A modular web application that provides a professional interface to interact wit
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies](#technologies)
+- [Flow Diagram](#flow-diagram)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -39,6 +40,12 @@ LangGraph Agent UI offers users a streamlined interface to communicate with AI a
 - **Backend:** FastAPI, Pydantic, Uvicorn
 - **AI Integration:** LangChain, LangGraph, and community search tools
 - **Other:** dotenv for environment configuration
+
+---
+## Flow Diagram
+![image](https://github.com/user-attachments/assets/bbb34308-5063-4dd5-b123-a99944d8d4e5)
+
+
 
 ---
 
